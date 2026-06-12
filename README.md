@@ -71,6 +71,25 @@ npx prisma migrate dev
 
 ## Running the Project
 
+Run the application:
+
+```bash
+npm start
+```
+
+For development mode with automatic reload:
+
+```bash
+npm run dev
+```
+
+Or run the file directly:
+
+```bash
+npx tsx script.ts
+```
+
+
 Start the application:
 
 ```bash
