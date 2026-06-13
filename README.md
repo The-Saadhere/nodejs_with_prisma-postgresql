@@ -30,13 +30,13 @@ Before running the project, make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/The-Saadhere/nodejs_with_prisma-postgresql.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd repository-name
+cd nodejs_with_prisma-postgresql
 ```
 
 Install dependencies:
